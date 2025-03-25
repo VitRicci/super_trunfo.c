@@ -1,0 +1,7 @@
+- o codigo do desafio novato foi feito com base nas aulas ate então apresentadas.
+- procurei deixar o código o mais simples e intuitivo possivel mas ainda tem muito oque ser melhorado.
+- não coloquei nenhum controle sobre a quantidade de dados.
+- voce tinha falado para não utilizar o comando "for" mas eu utilizei apenas para implementar um contador simples para
+fazer o controle da quantidade de cartas a serem digitadas, tambem poderia deixar para o usuário digitar a quantidade de
+cartas que foi pedida mas esse não era o intuito de projeto e nem foi pedido (claro que como uma boa prática de programação isso seria parte disso).
+- tenho ciencia dos erros do codigo na questão de não filtrar muito bem as entradas deixando assim margem para erros e entradas não programadas.
